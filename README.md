@@ -1,7 +1,7 @@
 # flutter_app
 
 A new Flutter application.
-#### This raw code is clone from [flutter 中文社区](https://flutter-io.cn/#section-keynotes), and i implement to construct my idea according it.
+#### This raw code is clone from [flutter 中文社区](https://flutter-io.cn/#section-keynotes), and i want to implement my idea according it.
 
 ## Getting Started
 
